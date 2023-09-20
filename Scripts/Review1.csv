@@ -1,0 +1,6 @@
+customer ID ,cuntomer_name,Age,Gender,Language,opinion,Sentiment
+C001,Piyush,20,male,english,I do not like product,Neutral
+C002,mishi,22,female,english,this is worst product,Negative
+C003,Prashi,24,female,english,I love this product,positive
+C004,Kajal,52,female,hindi,this is best product,positive
+C005,Ranjan,42,male,english,like this product,Neutral
